@@ -1,24 +1,49 @@
-# README
+# Hello App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+# Built With
+- Ruby
+- RoR
 
-* Ruby version
+# Getting Started
+To get a local copy up and running follow these simple example steps.
 
-* System dependencies
+Clone the project unto your local machine
+cd into the folder, and run 'ruby ./bin/main.rb' command.
 
-* Configuration
+You can change the website inside the 'search method' to get the information of any HTTP request.
+# Prerequisites
+- Install Ruby's latest version
 
-* Database creation
+# Author
 
-* Database initialization
+👤 Javier Oriol Correas Sanchez Cuesta
 
-* How to run the test suite
+- Github: [@javitocor](https://github.com/javitocor)
+- Twitter: [@JavierCorreas4](https://twitter.com/JavierCorreas4)
+- Linkedin: [Javier Oriol Correas Sanchez Cuesta](https://www.linkedin.com/in/javier-correas-sanchez-cuesta-15289482/)
 
-* Services (job queues, cache servers, search engines, etc.)
+# 🤝 Contributing
+Contributions, issues and feature requests are welcome! Start by:
 
-* Deployment instructions
+- Forking the project.
+- Cloning the project to your local machine.
+- cd into the project directory.
+- Run git checkout -b your-branch-name.
+- Make your contributions.
+- Push your branch up to your forked repository.
+- Open a Pull Request with a detailed description to the development branch of the original project for a review.
 
-* ...
+# Attributions and Credit 🚀
+- Microverse
+- The Odin Project
+
+# Show your support
+Give a ⭐️ if you like this project!
+
+📝 License
+
+Check out my stories on medium to see what I'm talking about! Follow me on Instagram and Twitter to see what I am up to!
+
+Enjoy!
+
